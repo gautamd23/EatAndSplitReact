@@ -6,13 +6,13 @@ import { useState } from "react";
 const initialFriends = [
   {
     id: 118836,
-    name: "Siri",
+    name: "Anthony",
     image: "https://i.pravatar.cc/48?u=118836",
     balance: -7,
   },
   {
     id: 933372,
-    name: "Aryan",
+    name: "Sarah",
     image: "https://i.pravatar.cc/48?u=933372",
     balance: 20,
   },
