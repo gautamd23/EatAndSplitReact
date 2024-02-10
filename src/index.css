@@ -17,6 +17,15 @@ html {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+.header {
+  background-color: #ff922b;
+  padding: 16px 50px;
+  color:black;
+  text-align: center;
+  font-weight: bold;
+  font-size:18px;
+}
+
 body {
   height: 100vh;
   color: #495057;

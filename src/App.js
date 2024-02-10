@@ -56,7 +56,9 @@ export default function App() {
 
   return (
     <div className="app">
+      
       <div className="sidebar">
+      
         <FriendList
           friends={friends}
           selectedFriends={selectedFriends}
@@ -76,6 +78,7 @@ export default function App() {
     </div>
   );
 }
+
 
 function FriendList({ friends, onSelection, selectedFriends }) {
   return (
